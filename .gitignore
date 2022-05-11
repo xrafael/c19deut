@@ -127,3 +127,26 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+driven/ALL/.ipynb_checkpoints
+driven/ALL/.ipynb_checkpoints/
+driven/ALL/models
+driven/ALL/models/
+driven/ALL/old
+driven/ALL/old/
+driven/ALL/data_flow
+driven/ALL/data_flow/
+
+
+driven/REGS/.ipynb_checkpoints
+driven/REGS/.ipynb_checkpoints/
+driven/REGS/models
+driven/REGS/models/
+driven/REGS/old
+driven/REGS/old/
+driven/REGS/data_flow
+driven/REGS/data_flow/
+driven/REGS/UPF.server
+driven/REGS/UPF.server/
+
+
