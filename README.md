@@ -2,9 +2,9 @@
 
 Code repository for modelling and forecasting COVID-19 transmission: compartmental meta-population and data-driven models.
 
-Folders:
+Folders
 
-* Epi, code for the compartmental meta-population model
-* Driven, code for the data-driven model
+* *Epi*: contains the code for the compartmental meta-population model
+* *Driven*: contains the code for the data-driven model
 
 
